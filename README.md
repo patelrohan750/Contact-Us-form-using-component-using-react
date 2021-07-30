@@ -48,8 +48,8 @@ npm run json-server
 
 | Plugin | README |
 | ------ | ------ |
-| react-hook-form | [https://www.npmjs.com/package/react-hook-form][PlDb] |
-| json-server | [https://www.npmjs.com/package/json-server][PlGh] |
-| axios | [https://www.npmjs.com/package/axios][PlGd] |
+| react-hook-form | https://www.npmjs.com/package/react-hook-form
+| json-server | https://www.npmjs.com/package/json-server
+| axios | https://www.npmjs.com/package/axios
 
 
