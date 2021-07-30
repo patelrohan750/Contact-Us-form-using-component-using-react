@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "name": "patel rohan",
+      "telephone": "7490899873",
+      "email": "patelrohan80532@gmail.com",
+      "ordernumber": "5",
+      "comment": "hii bro",
+      "id": 2
+    },
+    {
+      "name": "patel rohan",
+      "telephone": "7490899873",
+      "email": "gfgd@gmail.com",
+      "ordernumber": "7",
+      "comment": "fgfg",
+      "id": 3
+    },
+    {
+      "name": "patel roha",
+      "telephone": "7490899875",
+      "email": "gfg1d@gmail.com",
+      "ordernumber": "-2",
+      "comment": "hjhgj",
+      "id": 4
+    }
+  ]
+}
